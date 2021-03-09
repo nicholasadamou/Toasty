@@ -1,0 +1,16 @@
+body {
+	position: relative;
+}
+
+.notification {
+	position: fixed;
+	left: 50%;
+	right: 50%;
+	bottom: 10px;
+
+	width: 30%;
+
+	margin-right: 0;
+
+	transform: translate(-50%);
+}
