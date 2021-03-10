@@ -1,4 +1,4 @@
-# Carbon Notifications ![license](https://img.shields.io/apm/l/vim-mode.svg)
+# Toasty ![license](https://img.shields.io/apm/l/vim-mode.svg)
 
 This project was built due to the need to handle toast notifications from within a given Carbon-based project.
 
