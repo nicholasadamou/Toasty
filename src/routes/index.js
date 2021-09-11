@@ -16,7 +16,7 @@ const IndexPage = () => {
 
 	useEffect(() => {
 		showNotification(notification);
-	});
+	}, []);
 
 	return (
 		<>
