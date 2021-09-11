@@ -14,7 +14,7 @@ To use this in your project, you must be have installed `carbon` into your proje
 Assuming `carbon` is now installed and configured, download the following files:
 
 - [`NotificationContext.js`](src/contexts/NotificationContext.js)
-- [`NotificationProvider.js`](src/providers/NotificationProvider)
+- [`NotificationProvider.js`](src/providers/NotificationProvider.js)
 - [`index.scss`](src/providers/index.scss)
 
 Place them into your project file structure. The files `NotificationProvider.js` and `index.scss` are meant to be placed into a folder called `NotificationProvider`.
