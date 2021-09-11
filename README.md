@@ -4,7 +4,7 @@ This project was built due to the need to handle toast notifications from within
 
 ## Installation
 
-To use this in your project, you must be have installed `carbon` into your project. To do so for `react`-based projects, install the following dependencies:
+To use this in your project, you must have installed `carbon` into your project. To do so for `react`-based projects, install the following dependencies:
 
 - [`carbon-components`](https://github.com/carbon-design-system/carbon/tree/master/packages/components)
 - [`carbon-components-react`](https://github.com/carbon-design-system/carbon/tree/master/packages/react)
