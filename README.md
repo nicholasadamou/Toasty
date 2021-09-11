@@ -2,6 +2,22 @@
 
 This project was built due to the need to handle toast notifications from within a given Carbon-based project.
 
+## Installation
+
+To use this in your project, you must be have installed `carbon` into your project. To do so, follow [this guide](https://www.carbondesignsystem.com/developing/react-tutorial/step-1/) for `react`-based projects.
+
+Assuming `carbon` is now installed and configured, download the following files:
+
+- [`NotificationContext.js`](src/contexts/NotificationContext.js)
+- [`NotificationProvider.js`](src/providers/NotificationProvider)
+- [`index.scss`](src/providers/index.scss)
+
+Place them into your project file structure. The files `NotificationProvider.js` and `index.scss` are meant to be placed into a folder called `NotificationProvider`.
+
+To use in your project, see [this example](src/routes/index.js). 
+
+To view the options provided by `showNotification()` see [`NotificationProvider.js`](src/providers/NotificationProvider).
+
 ## Development
 
 ### Requirements
