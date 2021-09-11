@@ -112,7 +112,7 @@ class NotificationProvider extends Component {
 									style={{
 										...style
 									}}
-									className={`${className} notification animate__animated animate__bounceInUp`}
+									className={`${className} notification`}
 									onCloseButtonClick={onCloseButtonClick}
 								/>,
 								document.body
