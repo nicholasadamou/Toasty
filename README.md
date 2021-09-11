@@ -4,7 +4,12 @@ This project was built due to the need to handle toast notifications from within
 
 ## Installation
 
-To use this in your project, you must be have installed `carbon` into your project. To do so, follow [this guide](https://www.carbondesignsystem.com/developing/react-tutorial/step-1/) for `react`-based projects.
+To use this in your project, you must be have installed `carbon` into your project. To do so for `react`-based projects, install the following dependencies:
+
+- [`carbon-components`](https://github.com/carbon-design-system/carbon/tree/master/packages/components)
+- [`carbon-components-react`](https://github.com/carbon-design-system/carbon/tree/master/packages/react)
+- [`carbon-icons`](https://github.com/carbon-design-system/carbon-icons)
+- [`carbon-icons-react`](https://github.com/carbon-design-system/carbon/tree/master/packages/icons-react)
 
 Assuming `carbon` is now installed and configured, download the following files:
 
