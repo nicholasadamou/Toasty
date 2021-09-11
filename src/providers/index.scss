@@ -3,16 +3,24 @@ body {
 }
 
 .notification {
-	position: fixed;
-	left: 50%;
-	right: 50%;
-	bottom: 10px;
+  position: fixed;
+  left: 50%;
+  right: 50%;
+  bottom: 10px;
 
-	width: 30%;
+  width: -moz-fit-content;
+  width: fit-content !important;
 
-	margin-right: 0;
+  margin-right: 0;
 
-	transform: translate(-50%);
-	
-	z-index: 99999;
+  transform: translate(-50%);
+}
+
+.bx--inline-loading__text {
+  color: white !important;
+}
+
+
+.bx--toast-notification {
+  z-index: 9999999 !important;
 }
