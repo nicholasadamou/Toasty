@@ -21,7 +21,7 @@ Place them into your project file structure. The files `NotificationProvider.js`
 
 To use in your project, see [this example](src/routes/index.js). 
 
-To view the options provided by `showNotification()` see [`NotificationProvider.js`](src/providers/NotificationProvider).
+To view the options provided by `showNotification()` see [`NotificationProvider.js`](src/providers/NotificationProvider.js).
 
 ## Development
 
